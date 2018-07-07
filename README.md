@@ -1,0 +1,2 @@
+# poczatekGit
+sprawdzam
